@@ -7,4 +7,3 @@ The main goal of this project is to gain insights into the content distribution,
 
 Dataset
 https://www.kaggle.com/datasets/shivamb/netflix-shows!
-[Netflix](https://github.com/ParvathyJayan/Netflix-dataset-Exploratory-Data-Analysis-Python_Project/assets/137706415/8d177a61-e235-40c3-bb1f-fb968d21afc7)
